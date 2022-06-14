@@ -4,5 +4,5 @@ mysql_db_config = {
     'database' : 'GPE_DATABASE',
     'user' : '[user_name]',
     'password' : '[password]',
-    'host' : '[IP]'
+    'host' : '[IP_address]'
 }
